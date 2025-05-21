@@ -12,7 +12,7 @@
     <h4>EndeavourOS (private)</h4>
     <br>
     <img src="assets/windows11-icon.png" width="225" height="225"/>
-    <h4>Windows11 (work/school)</h4>
+    <h4>Windows (work/school)</h4>
 </div>
 <br>
 <div align='center'>
