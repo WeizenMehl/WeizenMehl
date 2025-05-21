@@ -14,7 +14,6 @@
     <img src="assets/windows11-icon.png" width="225" height="225"/>
     <h4>Windows11 (work/school)</h4>
 </div>
-
 <br>
 <div align='center'>
 	<h2>Programming Languages I use:</h2>
