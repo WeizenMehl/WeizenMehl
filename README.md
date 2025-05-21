@@ -24,10 +24,10 @@
 </div>
 - - -
 <div align='center'>
-	<img src="java-icon.png" width="50" height="50"/>
-	<img src="csharp-icon.png" width="50" height="50"/>
-	<img src="c-icon.png" width="50" height="50"/>
-	<img src="js-icon.png" width="50" height="50"/>
+	<img src="assets/java-icon.png" width="50" height="50"/>
+	<img src="assets/csharp-icon.png" width="50" height="50"/>
+	<img src="assets/c-icon.png" width="50" height="50"/>
+	<img src="assets/js-icon.png" width="50" height="50"/>
 </div>
 - - -
 
