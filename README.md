@@ -1,16 +1,33 @@
-## Hi there 👋
+---
+---
+<div align>
+	<h1>Hello, I am WeizenMehl</h1>
+</div>
 
-<!--
-**WeizenMehl/WeizenMehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+	<h2>Operating Systems I use:</h2>
+</div>
+---
 
-Here are some ideas to get you started:
+<div align='center'>
+    <img src="assets/eos-icon.png" width="250" height="200"/>
+    <h4>EndeavourOS (private)</h4>
+    <br>
+    <img src="assets/windows11-icon.png" width="225" height="225"/>
+    <h4>Windows11 (work/school)</h4>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<br>
+<div align='center'>
+	<h2>Operating Systems I use:</h2>
+</div>
+- - -
+<div align='center'>
+	<img src="java-icon.png" width="50" height="50"/>
+	<img src="csharp-icon.png" width="50" height="50"/>
+	<img src="c-icon.png" width="50" height="50"/>
+	<img src="js-icon.png" width="50" height="50"/>
+</div>
+- - -
+
