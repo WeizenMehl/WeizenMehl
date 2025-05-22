@@ -8,13 +8,13 @@
 <div align='center'>
     <img src="assets/eos-icon.png" width="150" height="125"/>
     <img src="assets/windows11-icon.png" width="125" height="125"/>
-	<h2>EndeavourOS</h2>
+	<h4>EndeavourOS</h4>
     <p>
             I primarily use EndeavourOS, a lightweight and fast GNU/Linux distribution with a rolling release model.
             I choose it for its reliability, performance, and security. It's my go-to system for personal use and most
             of my school work, especially coding projects.
     </p>
-	<h2>Windows</h2>
+	<h4>Windows</h4>
         <p>
             I use Windows only when necessary for school or work—typically in situations where GNU/Linux isn't supported
             or Windows is required by default.
