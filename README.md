@@ -6,10 +6,10 @@
 </div>
 
 <div align='center'>
-    <img src="assets/eos-icon.png" width="250" height="200"/>
+    <img src="assets/eos-icon.png" width="150" height="125"/>
     <h4>EndeavourOS (private)</h4>
     <br>
-    <img src="assets/windows11-icon.png" width="225" height="225"/>
+    <img src="assets/windows11-icon.png" width="125" height="125"/>
     <h4>Windows (work/school)</h4>
 </div>
 <br>
