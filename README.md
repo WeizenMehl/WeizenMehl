@@ -1,4 +1,4 @@
-^<div align>
+<div align>
 	<h1>Hello, I am WeizenMehl</h1>
 </div>
 <div align='center'>
