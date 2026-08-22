@@ -36,6 +36,6 @@
   <h2>Statistic</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeizenMehl&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
   <br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=WeizenMehl&layout=compact&langs_count=5&theme=dark" />
   <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=dark" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=WeizenMehl&layout=compact&langs_count=5&theme=dark" />
 </div>
