@@ -29,7 +29,7 @@
 	<img src="assets/java-icon.png" width="50" height="50"/>
 	<img src="assets/csharp-icon.png" width="50" height="50"/>
 	<img src="assets/c-icon.png" width="50" height="50"/>
-	<img src="assets/js-icon.png" width="50" height="50"/>
+	<img src="assets/rust-icon.png" width="50" height="50"/>
 </div>
 
 <div align="center">
