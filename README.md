@@ -6,7 +6,7 @@
 </div>
 
 <div align='center'>
-    <img src="assets/eos-icon.png" width="150" height="125"/>
+    <img src="assets/eos-icon.png" width="125" height="100" style="position:relative; bottom:15px;"/>
     <img src="assets/windows11-icon.png" width="125" height="125"/>
 	<h4>EndeavourOS</h4>
     <p>
@@ -38,5 +38,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeizenMehl&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
   <br>
   <img src="https://github-stats-extended.vercel.app/api?username=WeizenMehl&show_icons=true&include_all_commits=true&theme=dark" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=WeizenMehl&layout=compact&langs_count=5&theme=dark" />
+  <img src=https://github-stats-extended.vercel.app/api/top-langs?username=WeizenMehl&layout=compact&langs_count=5&theme=dark />
 </div>
