@@ -36,6 +36,5 @@
 <div align="center">
   <h2>Statistic</h2>
   <br>
-  <img src="https://github-stats-extended.vercel.app/api?username=WeizenMehl&show_icons=true&include_all_commits=true&theme=dark" />
   <img src=https://github-stats-extended.vercel.app/api/top-langs?username=WeizenMehl&layout=compact&langs_count=5&theme=dark />
 </div>
